@@ -87,7 +87,7 @@ a:hover {
 
 .header nav {
   padding: 1.5rem 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', Tahoma, sans-serif;
 }
 
 .header__logo img {
@@ -144,7 +144,7 @@ a:hover {
 
 .hero__text {
   width: 18.1875rem;
-  font-family: "heroiccondensed";
+  font-family: "heroiccondensed", sans-serif;
   font-weight: 800;
   font-size: 1.5625rem;
   -webkit-box-flex: 1;
@@ -186,7 +186,7 @@ a:hover {
 .hero__text--live {
   position: absolute;
   top: 11.875rem;
-  font-family: 'heroiccondensed';
+  font-family: 'heroiccondensed', sans-serif;
   font-size: 1.875rem;
   letter-spacing: 5px;
   font-weight: 800;
@@ -218,7 +218,7 @@ a:hover {
 }
 
 .hero__text--paragraph {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', tahoma, sans-serif;
   line-height: 1.125rem;
   font-size: 1rem;
   letter-spacing: 0.5px;
