@@ -1,7 +1,14 @@
 .header {
+
+    a{
+        color:$navyBlue;
+    }
+    
     nav {
         padding: 1.5rem 0;
         font-family: 'Lato', sans-serif;
+        
+
     }
 
 
@@ -27,6 +34,7 @@
 .top_nav {
     font-size: 0.75rem;
     margin-bottom: 0.625rem;
+
 
     .topLeft:not(:first-child) {
         &::before {
